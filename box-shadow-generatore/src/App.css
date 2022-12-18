@@ -1,4 +1,27 @@
 .App {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.box {
+  width: 40vw;
+  height: 50vh;
+  background-color: blueviolet;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box p {
+  font-size: 31px;
+  font-weight: bolder;
+}
+.controls {
+  width: 240vw;
+
+}
+.controls input {
+  width: 100%;
 }
