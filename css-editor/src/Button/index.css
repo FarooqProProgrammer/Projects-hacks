@@ -1,0 +1,27 @@
+.btns {
+    width: 50vw;
+    height: 100vh;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btns .styles {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    border:2px solid black;
+}
+.controls {
+    width: 50vw;
+    height: 100vh;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.controls input {
+    width: 100%;
+}
